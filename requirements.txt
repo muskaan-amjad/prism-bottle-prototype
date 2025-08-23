@@ -1,5 +1,0 @@
-pandas>=2.0,<3.0
-scikit-learn>=1.4,<2.0
-
-pathlib2>=2.3.7; python_version<"3.4"
-
